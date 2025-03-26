@@ -102,7 +102,7 @@ export default {
     bottom: 0
     .title
       text-align: left
-      : .54rem
+      line-height: .54rem
       background:#eee
       padding-left: .2rem
       color:#666
@@ -119,7 +119,7 @@ export default {
           border: .02rem solid #ccc
           border-radius: .06rem
     .item-list
-       text-align: left
+      text-align: left
       .item
         text-align: left
         line-height: .76rem
